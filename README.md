@@ -102,3 +102,5 @@ $row['judul'] ?></a></li>
 <?php endforeach; ?>
 </ul>
 ```
+![Screenshot 2025-04-24 133931](https://github.com/user-attachments/assets/49f7641a-eb97-40c2-81ea-4f85e0792d85)
+
